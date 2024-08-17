@@ -1,4 +1,4 @@
-## Analysis of Stack-Overflow 2023 Survey
+## Analysis of Stack Overflow 2023 Developers Survey
 
 ### Problem
 
@@ -21,7 +21,7 @@ insights via appropriate visuals. Educate us on the choice of visual and documen
 
 **Data**
 
-*Stack-Overflow 2023 survey dataset*
+*Stack Overflow 2023 survey dataset*
 
 [Download dataset here](https://drive.google.com/file/d/1jeywg_nqXraYEswCZ0fqVD9CFobJ5_Tb/view?usp=drivesdk)
 
