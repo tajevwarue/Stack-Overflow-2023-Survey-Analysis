@@ -21,7 +21,11 @@ insights via appropriate visuals. Educate us on the choice of visual and documen
 
 **Data**
 
-*Stack-Overflow 2023 survey*
+*Stack-Overflow 2023 survey dataset*
+
+[Download dataset here](https://drive.google.com/file/d/1jeywg_nqXraYEswCZ0fqVD9CFobJ5_Tb/view?usp=drivesdk)
+
+*Stack-Overflow 2023 survey Questions:* Download `survey_result_public_EDAsurvey_2023.pdf` from this repository.
 
 **Data Structure**
 
@@ -47,7 +51,7 @@ Analysis was carried out done in three categories:
 
 Since we were not using all the sections, we going to dropped columns not relating the above mentioned sections.
 
-**Visualization**
+**Visualizations**
 
 - Bar charts were used for columns having more than 5 unique values. 
 - Scatter plot was used for relationship between two numerical variables
